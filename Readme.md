@@ -9,13 +9,13 @@
 > View all tasks and progress bar
 ![Alt text](/screenshots/index.jpg?raw=true "Index")
 > Look at a particular task
-[screenshots/show.jpg]
+![Alt text](/screenshots/show.jpg?raw=true "Show")
 > Create a new task
-[screenshots/add.jpg]
+![Alt text](/screenshots/add.jpg?raw=true "Add")
 > editing an old task
-[screenshots/edit.jpg]
+![Alt text](/screenshots/edit.jpg?raw=true "Edit")
 > adding date
-[screenshots/setDate.jpg]
+![Alt text](/screenshots/setDate.jpg?raw=true "setDate")
 
 
 ## Installation
