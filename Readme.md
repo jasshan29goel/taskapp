@@ -4,20 +4,6 @@
 
 > #React-native, #expo,#material-ui
 
-## Features
-
-> View all tasks and progress bar
-![Alt text](/screenshots/index.jpg?raw=true "Index"){:height="50%" width="50%"}
-> Look at a particular task
-![Alt text](/screenshots/show.jpg?raw=true "Show")
-> Create a new task
-![Alt text](/screenshots/add.jpg?raw=true "Add")
-> editing an old task
-![Alt text](/screenshots/edit.jpg?raw=true "Edit")
-> adding date
-![Alt text](/screenshots/setDate.jpg?raw=true "setDate")
-
-
 ## Installation
 
 ### Clone
@@ -32,3 +18,15 @@ npm install
 npm start
 ```
 
+## Features
+
+> View all tasks and progress bar
+<img src="./screenshots/index.jpg" alt="index" width="300"/>
+> Look at a particular task
+<img src="./screenshots/view.jpg" alt="index" width="300"/>
+> Create a new task
+<img src="./screenshots/add.jpg" alt="add" width="300"/>
+> editing an old task
+<img src="./screenshots/edit.jpg" alt="index" width="300"/>
+> adding date
+<img src="./screenshots/setDate.jpg" alt="index" width="300"/>
