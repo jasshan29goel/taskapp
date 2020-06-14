@@ -7,7 +7,7 @@
 ## Features
 
 > View all tasks and progress bar
-![Alt text](/screenshots/index.jpg?raw=true "Index"){width="25%"}
+![Alt text](/screenshots/index.jpg?raw=true "Index"){:height="50%" width="50%"}
 > Look at a particular task
 ![Alt text](/screenshots/show.jpg?raw=true "Show")
 > Create a new task
