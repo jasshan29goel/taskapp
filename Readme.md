@@ -7,7 +7,7 @@
 ## Features
 
 > View all tasks and progress bar
-[screenshots/index.jpg]
+[./screenshots/index.jpg]
 > Look at a particular task
 [screenshots/show.jpg]
 > Create a new task
